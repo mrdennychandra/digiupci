@@ -3,12 +3,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Welcome extends CI_Controller {
 
-	//http://localhost/appkaryawan/index.php/welcome/index
+	//http://localhost/ekatalog/index.php/welcome/index
 	public function index(){
 		$this->load->view('welcome_message');
 	}
 
-	//http://localhost/appkaryawan/index.php/welcome/hello
+	//http://localhost/ekatalog/index.php/welcome/hello
 	public function hello(){
 		$data['nama'] = "Denny";
 		$data['nim'] = "123456";
@@ -18,7 +18,8 @@ class Welcome extends CI_Controller {
 		$this->load->view('hello',$data);
 	}
 
-	//http://localhost/appkaryawan/index.php/welcome/profile
+	//TODO : Buat view untuk ini
+	//http://localhost/ekatalog/index.php/welcome/profile
 	public function profile(){
 		//load view di folder profile kemudian file index.php
 		$this->load->view('profile/index');
