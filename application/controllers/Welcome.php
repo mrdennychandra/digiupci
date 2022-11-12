@@ -24,4 +24,10 @@ class Welcome extends CI_Controller {
 		//load view di folder profile kemudian file index.php
 		$this->load->view('profile/index');
 	}
+
+	public function nilai(){
+		$nilai1 = $this->uri->segment(3);
+		$nilai2 = $this->uri->segment(4);
+		echo $nilai1;
+	}
 }

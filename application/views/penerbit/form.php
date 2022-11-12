@@ -5,30 +5,42 @@
 <h3>
     <?= validation_errors(); ?>
 </h3>
-<form method="post" action="<?= base_url('divisi/save') ?>">
+<form method="post" action="<?= base_url('penerbit/save') ?>">
 <input type="hidden" name="id" value="<?= isset($id) ? $id : '' ?>"/>
 <div>
     <label></label>
     <div>
-    <h3>Tambah/Ubah Divisi</h3>
+    <h3>Tambah/Ubah Penerbit</h3>
     </div>
 </div>
 <div>
-    <label>Kode Divisi</label>
+    <label>Nama Penerbit</label>
     <div>
-        <input type="text" name="kode" id="kode" value="<?= $kode ?>" required size="3"/>
+        <input type="text" name="nama" id="nama" value="<?= $nama ?>" required/>
     </div>
 </div>
 
 <div>
-    <label>Nama Divisi</label>
+    <label>Alamat</label>
     <div>
-        <input type="text" name="nama" id="nama" value="<?= $nama ?>" required size="30"/>
+        <input type="text" name="alamat" id="alamat" value="<?= $alamat ?>" required/>
     </div>
 </div>
 
 <div>
-<label></label>
+    <label>Telpon</label>
+    <div>
+        <input type="tel" name="telpon" id="telpon" value="<?= $telpon ?>" required/>
+    </div>
+</div>
+
+<div>
+    <label>Email</label>
+    <div>
+        <input type="email" name="email" id="email" value="<?= $email ?>" required/>
+    </div>
+</div>
+
 <div>
     <input type="button" value="Cancel" onclick="history.back()" />
     <input type="submit" value="Simpan" />

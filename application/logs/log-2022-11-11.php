@@ -137,3 +137,83 @@ INFO - 2022-11-11 14:15:03 --> Controller Class Initialized
 INFO - 2022-11-11 14:15:03 --> File loaded: C:\xampp\htdocs\ekatalog\application\views\hello.php
 INFO - 2022-11-11 14:15:03 --> Final output sent to browser
 DEBUG - 2022-11-11 14:15:03 --> Total execution time: 0.0562
+INFO - 2022-11-11 14:26:37 --> Config Class Initialized
+INFO - 2022-11-11 14:26:37 --> Hooks Class Initialized
+DEBUG - 2022-11-11 14:26:37 --> UTF-8 Support Enabled
+INFO - 2022-11-11 14:26:37 --> Utf8 Class Initialized
+INFO - 2022-11-11 14:26:37 --> URI Class Initialized
+INFO - 2022-11-11 14:26:37 --> Router Class Initialized
+INFO - 2022-11-11 14:26:37 --> Output Class Initialized
+INFO - 2022-11-11 14:26:37 --> Security Class Initialized
+DEBUG - 2022-11-11 14:26:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 14:26:37 --> Input Class Initialized
+INFO - 2022-11-11 14:26:37 --> Language Class Initialized
+INFO - 2022-11-11 14:26:37 --> Loader Class Initialized
+INFO - 2022-11-11 14:26:37 --> Helper loaded: url_helper
+INFO - 2022-11-11 14:26:37 --> Controller Class Initialized
+INFO - 2022-11-11 14:26:37 --> Final output sent to browser
+DEBUG - 2022-11-11 14:26:37 --> Total execution time: 0.0250
+INFO - 2022-11-11 14:27:12 --> Config Class Initialized
+INFO - 2022-11-11 14:27:12 --> Hooks Class Initialized
+DEBUG - 2022-11-11 14:27:12 --> UTF-8 Support Enabled
+INFO - 2022-11-11 14:27:12 --> Utf8 Class Initialized
+INFO - 2022-11-11 14:27:12 --> URI Class Initialized
+INFO - 2022-11-11 14:27:12 --> Router Class Initialized
+INFO - 2022-11-11 14:27:12 --> Output Class Initialized
+INFO - 2022-11-11 14:27:12 --> Security Class Initialized
+DEBUG - 2022-11-11 14:27:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 14:27:12 --> Input Class Initialized
+INFO - 2022-11-11 14:27:12 --> Language Class Initialized
+INFO - 2022-11-11 14:27:12 --> Loader Class Initialized
+INFO - 2022-11-11 14:27:12 --> Helper loaded: url_helper
+INFO - 2022-11-11 14:27:12 --> Controller Class Initialized
+INFO - 2022-11-11 14:27:12 --> Final output sent to browser
+DEBUG - 2022-11-11 14:27:12 --> Total execution time: 0.0175
+INFO - 2022-11-11 14:27:13 --> Config Class Initialized
+INFO - 2022-11-11 14:27:13 --> Hooks Class Initialized
+DEBUG - 2022-11-11 14:27:13 --> UTF-8 Support Enabled
+INFO - 2022-11-11 14:27:13 --> Utf8 Class Initialized
+INFO - 2022-11-11 14:27:13 --> URI Class Initialized
+INFO - 2022-11-11 14:27:13 --> Router Class Initialized
+INFO - 2022-11-11 14:27:13 --> Output Class Initialized
+INFO - 2022-11-11 14:27:13 --> Security Class Initialized
+DEBUG - 2022-11-11 14:27:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 14:27:13 --> Input Class Initialized
+INFO - 2022-11-11 14:27:13 --> Language Class Initialized
+INFO - 2022-11-11 14:27:13 --> Loader Class Initialized
+INFO - 2022-11-11 14:27:13 --> Helper loaded: url_helper
+INFO - 2022-11-11 14:27:13 --> Controller Class Initialized
+INFO - 2022-11-11 14:27:13 --> Final output sent to browser
+DEBUG - 2022-11-11 14:27:13 --> Total execution time: 0.0212
+INFO - 2022-11-11 14:27:16 --> Config Class Initialized
+INFO - 2022-11-11 14:27:16 --> Hooks Class Initialized
+DEBUG - 2022-11-11 14:27:16 --> UTF-8 Support Enabled
+INFO - 2022-11-11 14:27:16 --> Utf8 Class Initialized
+INFO - 2022-11-11 14:27:16 --> URI Class Initialized
+INFO - 2022-11-11 14:27:16 --> Router Class Initialized
+INFO - 2022-11-11 14:27:16 --> Output Class Initialized
+INFO - 2022-11-11 14:27:16 --> Security Class Initialized
+DEBUG - 2022-11-11 14:27:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 14:27:16 --> Input Class Initialized
+INFO - 2022-11-11 14:27:16 --> Language Class Initialized
+INFO - 2022-11-11 14:27:16 --> Loader Class Initialized
+INFO - 2022-11-11 14:27:16 --> Helper loaded: url_helper
+INFO - 2022-11-11 14:27:16 --> Controller Class Initialized
+INFO - 2022-11-11 14:27:16 --> Final output sent to browser
+DEBUG - 2022-11-11 14:27:16 --> Total execution time: 0.0223
+INFO - 2022-11-11 14:28:06 --> Config Class Initialized
+INFO - 2022-11-11 14:28:06 --> Hooks Class Initialized
+DEBUG - 2022-11-11 14:28:06 --> UTF-8 Support Enabled
+INFO - 2022-11-11 14:28:06 --> Utf8 Class Initialized
+INFO - 2022-11-11 14:28:06 --> URI Class Initialized
+INFO - 2022-11-11 14:28:06 --> Router Class Initialized
+INFO - 2022-11-11 14:28:06 --> Output Class Initialized
+INFO - 2022-11-11 14:28:06 --> Security Class Initialized
+DEBUG - 2022-11-11 14:28:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-11-11 14:28:06 --> Input Class Initialized
+INFO - 2022-11-11 14:28:06 --> Language Class Initialized
+INFO - 2022-11-11 14:28:06 --> Loader Class Initialized
+INFO - 2022-11-11 14:28:06 --> Helper loaded: url_helper
+INFO - 2022-11-11 14:28:06 --> Controller Class Initialized
+INFO - 2022-11-11 14:28:06 --> Final output sent to browser
+DEBUG - 2022-11-11 14:28:06 --> Total execution time: 0.0266
